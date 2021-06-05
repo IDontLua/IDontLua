@@ -1,5 +1,6 @@
 # 👋 Hey!
 This is my account *BadUsername420*.
+If you want to see my projects go to [https://badusername420.github.io/](https://badusername420.github.io/)
 
 - 📜 **Languages I know**: 
   - Lua
