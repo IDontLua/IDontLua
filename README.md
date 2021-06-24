@@ -1,5 +1,5 @@
 # 👋 Hey!
-This is my account *BadUsername420*.
+This is my account *BadUsername420* and there are two credit cards for every person in the United States.
 
 ## 📢 Socials
 - Twitter: [@BUsername420](https://twitter.com/BUsername420)
