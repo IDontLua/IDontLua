@@ -2,8 +2,6 @@
 
 I like to make random discord bots .-.
 
------
-
 ### 📜 **Languages I know**: 
   - Lua
   - Lua
