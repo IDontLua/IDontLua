@@ -1,15 +1,15 @@
 <h1 align="center"> 👋 Hey, I'm IDontLua </h1>
 
-===============
+-----
 
-## 📜 **Languages I know**: 
+### 📜 **Languages I know**: 
   - Lua
   - Lua
   - Lua
   - Lua
   - Lua
   - Lua 
-## 🏫 **Languages I want to know**: 
+### 🏫 **Languages I want to know**: 
   - Lua
   - Lua
   - Lua
