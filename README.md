@@ -1,5 +1,7 @@
 <h1 align="center"> 👋 Hey, I'm IDontLua </h1>
 
+I like to make random discord bots .-.
+
 -----
 
 ### 📜 **Languages I know**: 
