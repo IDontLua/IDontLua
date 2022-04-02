@@ -1,13 +1,6 @@
-# 👋 Hey!
-This is my account *BadUsername420* and there are two credit cards for every person in the United States.
+<h1 align="center"> 👋 Hey, I'm IDontLua </h1>
 
-## 📢 Socials
-- Twitter: [@BUsername420](https://twitter.com/BUsername420)
-- YouTube: [BUsername420](https://www.youtube.com/channel/UCorQeye1o1OU1U1dqglDvXg/)
-- Twitch: [BUsername420](https://www.twitch.tv/busername420)
-- Github: [BadUsername420](https://github.com/BadUsername420/)
-- Reddit: [u\BUsername420](https://reddit.com/u/busername420)
-- Website: [Badusername420.github.io](https://badusername420.github.io)
+===============
 
 ## 📜 **Languages I know**: 
   - Lua
@@ -23,3 +16,5 @@ This is my account *BadUsername420* and there are two credit cards for every per
   - Lua
   - Lua
   - Lua 
+
+> *Ironically none of the repos on my profile have lua* 
